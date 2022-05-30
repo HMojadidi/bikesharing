@@ -19,6 +19,48 @@ First I was required to change the trip duration data to a datetime field. I did
 
 ## 1. Checkout Times for Users:
 
+There is demand for bike usage for as little than an hour, peaking at 5 minutes.
+
 ![Screen Shot 2022-05-30 at 12 48 08 AM](https://user-images.githubusercontent.com/95712234/170919044-2ef98b21-2407-44ba-b318-ffced6d72ad9.png)
+
+## 2. Checkout Times by Gender:
+
+Males are the majority of these bike riders. Women trail by 1/3 in bike usage.
+
+![Screen Shot 2022-05-30 at 12 55 57 AM](https://user-images.githubusercontent.com/95712234/170919751-7e93f6d3-e554-45b9-88b5-9bd501932122.png)
+
+## 3. Trips by Weekday per Hour:
+
+Peak bike usage hours are at their peak around 8 - 10 a.m. and 5 - 7 pm in the evenings.
+
+![Screen Shot 2022-05-30 at 12 57 22 AM](https://user-images.githubusercontent.com/95712234/170919876-08ab676b-b6fd-45db-879f-76139383e8aa.png)
+
+## 4. Trips by Gender (Weeday per Hour):
+
+Men are the majority of bike riders and they use them most during morning and evening workday timings.
+
+![Screen Shot 2022-05-30 at 12 59 24 AM](https://user-images.githubusercontent.com/95712234/170920057-d508c233-afa8-4ec1-924d-b84b94f5aa33.png)
+
+## 5. Trips by Gender and Usertype (Weekday per Hour):
+
+Men who are subscribers tend to bikeride the most. Women subscribers slightly use bikes more than their customer counterparts.
+
+![Screen Shot 2022-05-30 at 1 01 18 AM](https://user-images.githubusercontent.com/95712234/170920198-852cacdc-acf7-499c-82fe-76846e13fb0a.png)
+
+## 6. Number of Rides per Hour:
+
+Peak usage is during  8 - 10 a.m. and 5 - 7 p.m. The lowest usage time is around 3 - 5 a.m.
+
+![Screen Shot 2022-05-30 at 1 02 42 AM](https://user-images.githubusercontent.com/95712234/170920313-b1a2d6d2-d475-4a9f-80c2-57acf50ec1a9.png)
+
+## 7. Custoemr breakdown:
+
+The vast majority of bike users are subscribers.
+
+![Screen Shot 2022-05-30 at 1 18 33 AM](https://user-images.githubusercontent.com/95712234/170921863-242258c4-f5d9-4333-bb08-ef2894b4b98b.png)
+
+
+
+
 
 
