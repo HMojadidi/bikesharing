@@ -5,5 +5,6 @@ To convince investors that a bike-sharing program in Des Moines is a solid busin
 
 Link to Tableau Story:
 
-https://public.tableau.com/app/profile/hoda.mojadidi/viz/NYCBikesharingDataAnalysis/Story1
+[link to dashboard](https://public.tableau.com/app/profile/hoda.mojadidi/viz/NYCBikesharingDataAnalysis/Story1)
+
 
